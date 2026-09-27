@@ -1,0 +1,2 @@
+Prueba de escritura del conector GitHub.
+Fecha: 2026-09-27.
